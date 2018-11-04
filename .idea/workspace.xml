@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19813dfe-35f1-4b70-bc59-f157c4ee7a4a" name="Default" comment="" />
+    <list default="true" id="19813dfe-35f1-4b70-bc59-f157c4ee7a4a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/face recognition/detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/face recognition/detector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning udemy/.ipynb_checkpoints/Seaborn-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/machine learning udemy/.ipynb_checkpoints/Seaborn-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning udemy/Seaborn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/machine learning udemy/Seaborn.ipynb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,8 +66,8 @@
       <file leaf-file-name="train.py" pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/Downloads/Face-Recognition-Based-Attendance-System-master/Face-Recognition-Based-Attendance-System-master/train.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="192" column="4" selection-start-line="192" selection-start-column="4" selection-end-line="238" />
+            <state relative-caret-position="340">
+              <caret line="200" column="54" lean-forward="true" selection-start-line="200" selection-start-column="54" selection-end-line="200" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -76,6 +80,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -95,6 +102,7 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -258,11 +266,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24304539" />
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="8" />
       <window_info anchor="right" id="Run" order="3" weight="0.14494875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -609,8 +618,8 @@
     </entry>
     <entry file="file://$USER_HOME$/Downloads/Face-Recognition-Based-Attendance-System-master/Face-Recognition-Based-Attendance-System-master/train.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="192" column="4" selection-start-line="192" selection-start-column="4" selection-end-line="238" />
+        <state relative-caret-position="340">
+          <caret line="200" column="54" lean-forward="true" selection-start-line="200" selection-start-column="54" selection-end-line="200" selection-end-column="54" />
         </state>
       </provider>
     </entry>

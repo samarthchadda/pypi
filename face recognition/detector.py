@@ -13,6 +13,7 @@ rec=cv2.face.LBPHFaceRecognizer_create()
 rec.read("recognizer/trainingData1.yml")
 
 id=0
+name=""
 #font=cv2.cv.InitFont(cv2.cv.CV_FONT_HERSHEY_COMPLEX_SMALL,15,20,5,8)
 font = cv2.FONT_HERSHEY_SIMPLEX
 
@@ -49,17 +50,19 @@ while(1):
 
         if(config<50):
             if(id==1):
-                id="SAMARTH"
+                id="1"
+                name="  manu"
             elif(id==2):
                 id="SAKSHAM"
             elif(id==4 and id==5):
                 id="OBAMA"
         else:
             id="Unknown"
-
+            name="Unknown"
 
             
         cv2.putText(img,str(id),(x,y+h+20),font,0.55,(255,0,0),2)
+        cv2.putText(img,name,(x,y+h+45),font,0.55,(255,0,0),2)
         
 
 
